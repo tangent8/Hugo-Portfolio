@@ -1,0 +1,15 @@
+{
+	"title" : "Competencies",
+	"services" : [
+		{
+			"icon" : "pencil-ruler",
+			"title" : "System Analysis & Design",
+			"description" : "Designing the overall system by determining the functional aspects, designing modules that support a unified architechture, and creating components that peform the essentiall tasks of the software. "
+		},
+		{
+			"icon" : "pen-nib",
+			"title" : "Software Development",
+			"description" : "Implementing and writing the functionality of the individual software modules. Designing and organizing the code in such a way that creates robust solutions today while making it easy to enhance tomorrrow. "
+		}
+	]
+}

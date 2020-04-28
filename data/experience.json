@@ -1,0 +1,23 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "Dec 2010 - Present",
+			"company" : "CSIU",
+			"website": "https://www.csiu.org/",
+			"description" : "Programmer Analyst, developing & creating software systems for 300+ clients and growing, implementing software features, creating enhancements to functionality, expanding features to offer more robust tools, troubleshooting reported issues and creating fixes to address root causes and create systemic improvement. "
+		},		
+		{
+			"timeperiod" : "June 2006 - Dec 2010",
+			"company" : "CSIU",
+			"website": "https://www.csiu.org/",
+			"description" : "Computer Programmer, managing version control for scheduled releases, creating packages for distribution, analyzing the root cause of defects and creating patches, administering databases by maintaining tables, indexes, referential integrity and stored procedures. "
+		},		
+		{
+			"timeperiod" : "Sept 2002 - June 2006",
+			"company" : "Joseph Machine Co",
+			"website": "https://www.josephmachine.com/",
+			"description" : "Computer Programmer, wrote software packages used to control machines, developed software modules to enhance functionality, redesigned computer interfaces, implemented a new process that saved 250,000 dollars. "
+		}
+	]
+}
